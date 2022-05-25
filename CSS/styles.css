@@ -1,7 +1,6 @@
 body {
   margin: 0;
   text-align: center;
-
 }
 
 h1 {
@@ -12,25 +11,19 @@ h1 {
   background-color: #14C38E;
   position: relative;
   padding-top: 100px
-
 }
 
 .middle-container {
   background-color: #32a895;
-
-
 }
 
 .bottom-container {
   background-color: #0FF997;
-
 }
 
 .web {
   text-decoration: underline;
 }
-
-
 
 .name {
   font-family: paytone one, sans-serif;
@@ -42,5 +35,4 @@ h1 {
 
 .ghost {
   border-radius: 100%;
-
 }
