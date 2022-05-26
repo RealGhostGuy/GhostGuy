@@ -4,7 +4,12 @@ body {
 }
 
 h1 {
-  margin-top: 0
+  font-size: 4rem;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: antiquewhite;
 }
 
 .top-container {
@@ -22,13 +27,37 @@ h1 {
 }
 
 .web {
-  text-decoration: underline;
+  font-size: 1.50rem;
+  color: yellow;
 }
 
-.name {
+.myname {
   font-family: paytone one, sans-serif;
+
+
 }
 
 .roundimage {
   border-radius: 100%;
+  margin-bottom: 25px
+}
+
+p {
+  font-size: 1.5em;
+}
+
+.footer-link {
+  font-size: 1.7rem;
+}
+
+.btn {
+  font-size: 1.50rem;
+}
+
+.ghost {
+  margin: auto auto 50px auto;
+}
+
+.para {
+  margin: auto 25px auto 25px;
 }
