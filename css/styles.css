@@ -69,6 +69,13 @@ p {
 
 }
 
+.para1 {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+
+}
+
 .ghosticon {
   margin-left: 50px;
   float: right;
@@ -98,4 +105,8 @@ p {
   color: #000;
   background: #e6e4e4
 
+}
+
+.skillline {
+  padding-top: 15px;
 }
