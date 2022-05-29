@@ -52,8 +52,13 @@ p {
   font-size: 1.5em;
 }
 
-.footer-link {
+a {
   font-size: 1.7rem;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: #f56042
 }
 
 .btn {
@@ -102,9 +107,9 @@ p {
   -moz-border-radius: 28;
   border-radius: 28px;
   text-shadow: 1px 1px 3px #666666;
-  -webkit-box-shadow: 0px 1px 3px #666666;
-  -moz-box-shadow: 0px 1px 3px #666666;
-  box-shadow: 0px 1px 3px #666666;
+  -webkit-box-shadow: 0 1px 3px #666666;
+  -moz-box-shadow: 0 1px 3px #666666;
+  box-shadow: 0 1px 3px #666666;
   font-family: Arial;
   color: #82465e;
   font-size: 25px;
@@ -123,8 +128,8 @@ p {
 }
 
 hr {
-  border: dotted 6px;
+  border-top: dotted 6px;
   border-bottom: none;
-  width: 10%;
+  width: 20%;
   margin: 100px auto;
 }
