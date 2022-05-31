@@ -41,11 +41,14 @@ h3 {
 
 .myname {
   font-family: paytone one, sans-serif;
+  position: relative;
 }
 
 .roundimage {
+  position: relative;
   border-radius: 100%;
   margin-bottom: 25px
+
 }
 
 p {
@@ -67,6 +70,17 @@ a:hover {
 
 .ghost {
   margin: auto auto 50px auto;
+  position: relative;
+}
+
+.small-ghost {
+  float: left;
+  margin-left: 15%;
+}
+
+.small-ghost2 {
+  float: right;
+  margin-right: 15%;
 }
 
 .para {
