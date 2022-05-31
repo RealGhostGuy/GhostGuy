@@ -22,7 +22,6 @@ h3 {
   background-color: #14C38E;
   position: relative;
   padding-top: 100px;
-
 }
 
 .middle-container {
@@ -48,7 +47,6 @@ h3 {
   position: relative;
   border-radius: 100%;
   margin-bottom: 25px
-
 }
 
 p {
@@ -60,6 +58,7 @@ a {
   margin: 10px 20px;
   text-decoration: none;
 }
+
 a:hover {
   color: #f56042
 }
@@ -85,28 +84,24 @@ a:hover {
 
 .para {
   margin: auto 25px auto 25px;
-
 }
 
 .para1 {
   margin: auto;
   width: 50%;
   text-align: center;
-
 }
 
 .ghosticon {
   margin-left: 50px;
   float: right;
   width: 25%
-
 }
 
 .htmllogo {
   margin-right: 50px;
   float: left;
   width: 25%
-
 }
 
 .skill-row {
