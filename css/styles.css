@@ -8,6 +8,54 @@ h1 {
   margin: 50px auto 0 auto;
 }
 
+.T {
+  color: red;
+}
+
+.H {
+  color: blue;
+}
+
+.E {
+  color: pink
+}
+
+.G {
+  color: purple;
+}
+
+.HH {
+  color: orange;
+}
+
+.O {
+  color: green;
+}
+
+.S {
+  color: grey;
+}
+
+.TT {
+  color: beige;
+}
+
+.GG {
+  color: silver;
+}
+
+.U {
+  color: maroon;
+}
+
+.Y {
+  color: olive;
+}
+
+
+
+
+
 h2 {
   color: antiquewhite;
   font-weight: normal;
