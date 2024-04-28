@@ -93,7 +93,7 @@ h3 {
 
 .roundimage {
   position: relative;
-  border-radius: 25%;
+  border-radius: 100%;
   margin-bottom: 25px
   }
 
