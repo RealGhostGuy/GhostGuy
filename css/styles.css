@@ -93,8 +93,10 @@ h3 {
 
 .roundimage {
   position: relative;
+  max-width: 25%;
+  max-height: 25%;
   border-radius: 100%;
-  margin-bottom: 15px
+  margin-bottom: 25px
   }
 
 p {
